@@ -68,6 +68,61 @@ All pending decisions imported to Governance folder with 🔸 prefix.
 | MEDIUM | 3 (Normal) |
 | LOW | 4 (Low) |
 
+## Project Timeline (Gantt Chart)
+
+### Phase Overview
+
+| Phase | Timeline | Key Activities |
+|-------|----------|----------------|
+| **Phase 1: Pre-Investment** | Jan - Mar 2026 | Partnership, Financial Model, Documentation, Customer Validation |
+| **Phase 2: Investment** | Apr - Jun 2026 | Term Sheet, Property LOI, Acquisition, Grant Application |
+| **Phase 3: Development** | Jul - Dec 2026 | Renovation, Licensing, GTM, Staff Hiring |
+| **Phase 4: Launch** | Jan 2027 | Grand Opening |
+| **Year 1 Operations** | Jan 2027 - Jan 2028 | Operations, AZ Performance Review |
+
+### Key Milestones
+
+| Milestone | Target Date | Dependencies |
+|-----------|-------------|--------------|
+| M1: Partnership Agreement | Jan 31, 2026 | GOV-01 |
+| M2: Investor Term Sheet | Apr 15, 2026 | FM-01, DOC-03, DOC-05 |
+| M3: Property LOI | Apr 15, 2026 | M2, PROP-01 |
+| M4: Property Acquisition | Jun 30, 2026 | M3, PROP-02 |
+| M5: Grant Application | May 31, 2026 | M4 |
+| M6: Licenses Obtained | Nov 30, 2026 | REG-02 |
+| M7: Construction Complete | Dec 31, 2026 | M4, PROP-04 |
+| M8: Staff Ready | Dec 31, 2026 | M7, REG-05 |
+| M9: LAUNCH | Jan 15, 2027 | M6, M7, M8 |
+| M10: Year 1 Review | Jan 31, 2028 | M9 |
+
+### Phase Tags
+
+| Tag | Color | Description |
+|-----|-------|-------------|
+| Phase 1: Pre-Investment | Purple | Current phase - preparation work |
+| Phase 2: Investment | Green | Investment closing and property |
+| Phase 3: Development | Orange | Build-out and preparation |
+| Phase 4: Launch | Red | Go-live activities |
+| Critical Path | Red | Must-complete for timeline |
+| JI Owner | Blue | Medical Director responsible |
+| AZ Owner | Green | Operations responsible |
+
+### Task Dependencies (45 total)
+
+Key dependency chains:
+1. **Investment Chain:** GOV-01 → M1 → FM-01 → DOC-03 → DOC-05 → M2
+2. **Property Chain:** M2 → PROP-01 → M3 → PROP-02 → M4
+3. **Development Chain:** M4 → PROP-04 → M7 → M8 → M9
+4. **Licensing Chain:** REG-01 → REG-02 → M6 → M9
+
+### Accessing Gantt View
+
+1. Open ClickUp desktop app
+2. Navigate to **UDENSROZE** space
+3. Click on any folder or "Everything" view
+4. Select **Gantt** from the view options (top bar)
+5. Use filters to show by Phase tags or Critical Path
+
 ---
 
 *Setup completed: January 2026*
