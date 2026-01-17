@@ -57,10 +57,28 @@ The project has pivoted from the original €4.5M medical clinic concept to a mo
 
 ## 3. EQUITY STRUCTURE
 
-### 3.1 Arturs Zalitis (AZ) - Base Equity: 2%
+### 3.0 Two-Pool Structure
 
-**Conditions for 2% Base Equity:**
-AZ receives 2% equity in the company upon satisfaction of ALL the following conditions:
+The company equity is divided into two pools:
+
+| Pool | % of Total Company | Description |
+|------|-------------------|-------------|
+| **Investor Pool** | 60-80% | External capital partner(s) |
+| **Founder Pool** | 20-40% | Split between JI and AZ |
+
+**IMPORTANT:** AZ and JI equity percentages below refer to their share of the **Founder Pool**, not the total company.
+
+### 3.1 Founder Pool Split
+
+| Founder | Min % of Founder Pool | Max % of Founder Pool |
+|---------|----------------------|----------------------|
+| **JI (Medical Director)** | 80% | 98% |
+| **AZ (Arturs Zalitis)** | 2% | 20% |
+
+### 3.2 Arturs Zalitis (AZ) - Base: 2% of Founder Pool
+
+**Conditions for 2% of Founder Pool:**
+AZ receives 2% of the Founder Pool upon satisfaction of ALL the following:
 
 1. **Documentation Completion**
    - All 59 investment readiness tasks completed or delegated
@@ -75,102 +93,96 @@ AZ receives 2% equity in the company upon satisfaction of ALL the following cond
      - (b) Heavily involved in investor negotiations and due diligence process
 
 3. **Verification**
-   - Documented evidence of AZ's contribution to investor process
-   - Sign-off by all founding partners
+   - Documented evidence of AZ's contribution
+   - Sign-off by JI
 
-### 3.2 Arturs Zalitis (AZ) - Conditional Equity: +18% (Total: 20%)
+### 3.3 Arturs Zalitis (AZ) - Conditional: +18% of Founder Pool (Total: 20%)
 
-**Conditions for Additional 18% Equity:**
-AZ receives an additional 18% equity (bringing total to 20%) upon satisfaction of ALL the following conditions:
+**Conditions for Additional 18% of Founder Pool:**
+AZ receives an additional 18% of Founder Pool (total 20%) upon:
 
 1. **Operational Involvement Post-Launch**
-   - Minimum 2 years of active involvement after soft launch
-   - Full-time or equivalent commitment to operations
-   - Role: COO, General Manager, or equivalent executive position
+   - Minimum 2 years active involvement after soft launch
+   - Full-time or equivalent commitment
+   - Role: COO, General Manager, or equivalent
 
 2. **Performance Milestones**
-   - Year 1: Successful soft launch with minimum 30% occupancy
-   - Year 2: Achieve 50%+ occupancy and positive operating cash flow
-   - Continuous involvement in strategic decisions
+   - Year 1: Soft launch with minimum 30% occupancy
+   - Year 2: 50%+ occupancy and positive operating cash flow
 
 3. **Vesting Schedule**
    - Additional 18% vests over 4 years: 4.5% per year
-   - 1-year cliff: First 4.5% vests after 12 months of post-launch involvement
+   - 1-year cliff: First 4.5% vests after 12 months post-launch
    - Monthly vesting thereafter
 
 4. **Trigger Events**
-   | Scenario | Equity Outcome |
-   |----------|---------------|
-   | AZ leaves before launch | 0% (base 2% may be forfeited) |
-   | AZ leaves after launch, before Year 1 | 2% base only |
-   | AZ leaves after Year 1 | 2% + vested portion of 18% |
-   | AZ remains through Year 4+ | Full 20% |
+   | Scenario | AZ % of Founder Pool | JI % of Founder Pool |
+   |----------|---------------------|---------------------|
+   | AZ leaves before launch | 0% | 100% |
+   | AZ leaves after launch, before Year 1 | 2% | 98% |
+   | AZ leaves after Year 1 | 2% + vested portion | 98% - vested portion |
+   | AZ remains through Year 4+ | 20% | 80% |
 
-### 3.3 Medical Director (JI) - Equity TBD
+### 3.4 Medical Director (JI) - Remainder of Founder Pool
 
-**Discussion Required:**
-- JI's equity percentage to be determined based on:
-  - Capital contribution (if any)
-  - Clinical IP and protocol contribution
-  - Ongoing involvement commitment
-  - Risk sharing arrangement
+**JI receives the remainder of the Founder Pool:**
+- If AZ earns 2%: JI gets **98%** of Founder Pool
+- If AZ earns 20%: JI gets **80%** of Founder Pool
 
-**Proposed Options:**
-| Scenario | JI Equity | Notes |
-|----------|-----------|-------|
-| Full-time + No Capital | 10-15% | Sweat equity only |
-| Full-time + €50K Capital | 15-20% | Some skin in game |
-| Part-time Consultant | 3-5% | Advisory role only |
-| Full Clinical IP Transfer | +5% bonus | Protocols become company property |
-
-### 3.4 Investor Equity
+### 3.5 Investor Equity
 
 **Expected Investor Terms:**
-- **Equity Range:** 60-80% depending on:
-  - Total investment amount
-  - Grant co-financing secured
-  - Valuation negotiation
+- **Equity Range:** 60-80% of total company
+- **Founder Pool:** Remaining 20-40%
 
-- **Typical Structure:**
-  | Investment | Pre-Grant | Post-Grant (60%) | Investor Equity |
-  |------------|-----------|------------------|-----------------|
-  | €4M full | €4M | €1.6M net | 75-80% |
-  | €3M modest | €3M | €1.2M net | 65-70% |
-  | €2M Phase 1 only | €2M | €0.8M net | 55-60% |
-
-- **Investor Rights (Expected):**
-  - Board seat(s) and veto rights on major decisions
-  - Financial reporting requirements
-  - Exit rights after Year 5
-  - Anti-dilution protection
+| Investment Scenario | Investor % | Founder Pool % |
+|--------------------|-----------|----------------|
+| €4M, no grants | 80% | 20% |
+| €3M, with grants | 70% | 30% |
+| €2M Phase 1 only | 60% | 40% |
 
 ---
 
 ## 4. CAP TABLE SCENARIOS
 
-### Scenario A: Full Investment, Maximum Grants
-| Shareholder | Equity % | Notes |
-|-------------|----------|-------|
-| Investor | 65% | €1.4M net after 60% grant on €3.5M |
-| JI (Medical Director) | 15% | Full-time + some capital |
-| AZ (if vested) | 20% | 2% base + 18% operational |
-| **Total** | **100%** | |
+### How to Calculate Total Company %
 
-### Scenario B: Full Investment, No Grants
-| Shareholder | Equity % | Notes |
-|-------------|----------|-------|
-| Investor | 78% | €3.5M full investment |
-| JI (Medical Director) | 12% | Reduced due to higher investor stake |
-| AZ (if vested) | 10% | Proportionally reduced |
-| **Total** | **100%** | |
+```
+AZ Total Company % = AZ % of Founder Pool × Founder Pool %
+JI Total Company % = JI % of Founder Pool × Founder Pool %
+```
 
-### Scenario C: AZ Documents Only (No Operations)
-| Shareholder | Equity % | Notes |
-|-------------|----------|-------|
-| Investor | 70% | Standard |
-| JI (Medical Director) | 28% | Takes operational role |
-| AZ | 2% | Base equity only |
-| **Total** | **100%** | |
+### Scenario A: 70% Investor, AZ Fully Vested (20% of Founder Pool)
+| Shareholder | % of Pool | % of Total Company | Calculation |
+|-------------|-----------|-------------------|-------------|
+| Investor | 100% of Investor | **70.0%** | Direct |
+| JI | 80% of Founder | **24.0%** | 80% × 30% |
+| AZ | 20% of Founder | **6.0%** | 20% × 30% |
+| **Total** | | **100%** | |
+
+### Scenario B: 70% Investor, AZ Base Only (2% of Founder Pool)
+| Shareholder | % of Pool | % of Total Company | Calculation |
+|-------------|-----------|-------------------|-------------|
+| Investor | 100% of Investor | **70.0%** | Direct |
+| JI | 98% of Founder | **29.4%** | 98% × 30% |
+| AZ | 2% of Founder | **0.6%** | 2% × 30% |
+| **Total** | | **100%** | |
+
+### Scenario C: 80% Investor, AZ Fully Vested (20% of Founder Pool)
+| Shareholder | % of Pool | % of Total Company | Calculation |
+|-------------|-----------|-------------------|-------------|
+| Investor | 100% of Investor | **80.0%** | Direct |
+| JI | 80% of Founder | **16.0%** | 80% × 20% |
+| AZ | 20% of Founder | **4.0%** | 20% × 20% |
+| **Total** | | **100%** | |
+
+### Scenario D: 60% Investor, AZ Fully Vested (20% of Founder Pool)
+| Shareholder | % of Pool | % of Total Company | Calculation |
+|-------------|-----------|-------------------|-------------|
+| Investor | 100% of Investor | **60.0%** | Direct |
+| JI | 80% of Founder | **32.0%** | 80% × 40% |
+| AZ | 20% of Founder | **8.0%** | 20% × 40% |
+| **Total** | | **100%** | |
 
 ---
 
@@ -246,12 +258,33 @@ AZ receives an additional 18% equity (bringing total to 20%) upon satisfaction o
 See database: 59 tasks across 8 domains
 
 ### Appendix B: Vesting Schedule Calculator
+
+**AZ % of Founder Pool over time:**
 ```
-Year 1: 2% base + 4.5% = 6.5% total
-Year 2: 6.5% + 4.5% = 11% total
-Year 3: 11% + 4.5% = 15.5% total
-Year 4: 15.5% + 4.5% = 20% total (fully vested)
+Year 0 (pre-launch): 0%
+Year 1 (post-launch): 2% base + 4.5% = 6.5% of Founder Pool
+Year 2: 6.5% + 4.5% = 11% of Founder Pool
+Year 3: 11% + 4.5% = 15.5% of Founder Pool
+Year 4+: 15.5% + 4.5% = 20% of Founder Pool (fully vested)
 ```
+
+**JI % of Founder Pool (inverse):**
+```
+Year 0: 100% (AZ not yet qualified)
+Year 1: 93.5%
+Year 2: 89%
+Year 3: 84.5%
+Year 4+: 80%
+```
+
+**Example: If Investor = 70% (Founder Pool = 30%)**
+| Year | AZ % Founder | AZ % Company | JI % Founder | JI % Company |
+|------|-------------|--------------|--------------|--------------|
+| 0 | 0% | 0% | 100% | 30% |
+| 1 | 6.5% | 1.95% | 93.5% | 28.05% |
+| 2 | 11% | 3.3% | 89% | 26.7% |
+| 3 | 15.5% | 4.65% | 84.5% | 25.35% |
+| 4+ | 20% | 6% | 80% | 24% |
 
 ### Appendix C: Investment Readiness Criteria
 - 59/59 tasks completed
