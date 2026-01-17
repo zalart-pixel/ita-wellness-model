@@ -75,64 +75,43 @@ The company equity is divided into two pools:
 | **JI (Medical Director)** | 80% | 98% |
 | **AZ (Arturs Zalitis)** | 2% | 20% |
 
-### 3.2 Arturs Zalitis (AZ) - Base: 2% of Founder Pool
+### 3.2 Arturs Zalitis (AZ) - Two-Step Equity Structure
 
-**Conditions for 2% of Founder Pool:**
-AZ receives 2% of the Founder Pool upon satisfaction of ALL the following:
+**STEP 1: 2% of Founder Pool**
+*Trigger: Investment approved (before project execution)*
 
-1. **Documentation Completion**
-   - All 59 investment readiness tasks completed or delegated
-   - Data room fully populated and investor-ready
-   - Financial model validated and defensible
-   - Legal structure established
+AZ receives 2% of the Founder Pool when:
+- Lead investor signs term sheet / investment is approved
+- AZ was heavily involved in:
+  - Documentation and data room preparation, AND/OR
+  - Investor sourcing and negotiations
 
-2. **Investor Acquisition**
-   - Lead investor secured with signed term sheet
-   - AZ was either:
-     - (a) Primary contact who sourced the investor, OR
-     - (b) Heavily involved in investor negotiations and due diligence process
+**STEP 2: 20% of Founder Pool**
+*Trigger: 12 months after launch with good performance*
 
-3. **Verification**
-   - Documented evidence of AZ's contribution
-   - Sign-off by JI
+AZ increases from 2% to 20% of Founder Pool when:
+- 12 months have passed since project launch
+- AZ has been actively managing the business (full-time equivalent)
+- Good performance achieved (metrics TBD, e.g., occupancy targets, revenue goals)
 
-### 3.3 Arturs Zalitis (AZ) - Conditional: +18% of Founder Pool (Total: 20%)
+### 3.3 Summary Table
 
-**Conditions for Additional 18% of Founder Pool:**
-AZ's share increases from 2% toward 20% **only after completing 1 year of operations with good results**.
+| Milestone | AZ % of Founder Pool | JI % of Founder Pool | Timing |
+|-----------|---------------------|---------------------|--------|
+| Investment approved | **2%** | 98% | Pre-launch |
+| 12 months good operations | **20%** | 80% | 1 year after launch |
 
-1. **Year 1 Performance Gate (Required to Unlock Additional Equity)**
-   - AZ must complete 1 full year of active operational involvement
-   - Full-time or equivalent commitment as COO/General Manager
-   - Performance threshold: Minimum 30% occupancy achieved
-   - **If Year 1 targets NOT met:** AZ remains at 2%, no additional vesting
+### 3.4 Trigger Events
 
-2. **Vesting Schedule (Starts AFTER Year 1 Success)**
-   - **Year 0-1:** AZ holds 2% base only (no vesting during first year)
-   - **After Year 1 success:** Additional 18% begins vesting over 3 years
-   - **Vesting rate:** 6% per year for Years 2, 3, and 4
-   - Total timeline: 4 years to reach full 20%
+| Scenario | AZ % | JI % |
+|----------|------|------|
+| AZ leaves before investment | 0% | 100% |
+| AZ leaves after investment, before launch | 2% | 98% |
+| AZ leaves during Year 1 (before 12 months) | 2% | 98% |
+| Year 1 performance NOT satisfactory | 2% | 98% |
+| AZ completes 12 months with good results | **20%** | **80%** |
 
-3. **Year-by-Year Breakdown**
-   | Year | Requirement | AZ % of Founder Pool |
-   |------|-------------|---------------------|
-   | 0 (pre-launch) | Docs + investors | 2% |
-   | 1 (operations) | 30% occupancy, full-time | 2% (no increase yet) |
-   | 2 | Continued ops, 40%+ occupancy | 8% (+6% vested) |
-   | 3 | Continued ops, 50%+ occupancy | 14% (+6% vested) |
-   | 4+ | Continued ops, profitable | 20% (+6% vested, fully vested) |
-
-4. **Trigger Events**
-   | Scenario | AZ % of Founder Pool | JI % of Founder Pool |
-   |----------|---------------------|---------------------|
-   | AZ leaves before launch | 0% | 100% |
-   | AZ leaves during Year 1 | 2% | 98% |
-   | Year 1 targets NOT met | 2% (frozen) | 98% |
-   | AZ leaves after Year 2 | 2% + vested (8%) | 92% |
-   | AZ leaves after Year 3 | 2% + vested (14%) | 86% |
-   | AZ remains through Year 4+ | 20% | 80% |
-
-### 3.4 Medical Director (JI) - Remainder of Founder Pool
+### 3.5 Medical Director (JI) - Remainder of Founder Pool
 
 **JI receives the remainder of the Founder Pool:**
 - If AZ earns 2%: JI gets **98%** of Founder Pool
@@ -266,38 +245,31 @@ JI Total Company % = JI % of Founder Pool × Founder Pool %
 ### Appendix A: Task Completion Checklist (for AZ 2% Base Equity)
 See database: 59 tasks across 8 domains
 
-### Appendix B: Vesting Schedule Calculator
+### Appendix B: Equity Timeline
 
-**Key Rule:** AZ share only increases AFTER Year 1 with good results (30%+ occupancy)
+**Simple Two-Step Structure:**
 
-**AZ % of Founder Pool over time:**
 ```
-Year 0 (pre-launch): 2% (upon docs + investor completion)
-Year 1 (operations): 2% (NO increase - must prove performance first)
-Year 2 (if Year 1 success): 8% (+6% vested)
-Year 3: 14% (+6% vested)
-Year 4+: 20% (+6% vested, fully vested)
-```
-
-**JI % of Founder Pool (inverse):**
-```
-Year 0: 98%
-Year 1: 98% (no change until AZ proves performance)
-Year 2: 92%
-Year 3: 86%
-Year 4+: 80%
+INVESTMENT APPROVED          LAUNCH              12 MONTHS POST-LAUNCH
+        │                      │                         │
+        ▼                      ▼                         ▼
+   ┌─────────┐            ┌─────────┐              ┌─────────┐
+   │ AZ: 2%  │───────────▶│ AZ: 2%  │─────────────▶│ AZ: 20% │
+   │ JI: 98% │            │ JI: 98% │              │ JI: 80% │
+   └─────────┘            └─────────┘              └─────────┘
+                                                        │
+                                              (if good performance)
 ```
 
 **Example: If Investor = 70% (Founder Pool = 30%)**
-| Year | AZ % Founder | AZ % Company | JI % Founder | JI % Company |
-|------|-------------|--------------|--------------|--------------|
-| 0 | 2% | 0.6% | 98% | 29.4% |
-| 1 | 2% | 0.6% | 98% | 29.4% |
-| 2 | 8% | 2.4% | 92% | 27.6% |
-| 3 | 14% | 4.2% | 86% | 25.8% |
-| 4+ | 20% | 6.0% | 80% | 24.0% |
 
-**If Year 1 targets NOT met:** AZ stays at 2% permanently (or until renegotiated)
+| Stage | AZ % Founder | AZ % Company | JI % Founder | JI % Company |
+|-------|-------------|--------------|--------------|--------------|
+| Investment approved | 2% | 0.6% | 98% | 29.4% |
+| During Year 1 | 2% | 0.6% | 98% | 29.4% |
+| After 12 months (good) | **20%** | **6.0%** | **80%** | **24.0%** |
+
+**If Year 1 performance NOT satisfactory:** AZ stays at 2%
 
 ### Appendix C: Investment Readiness Criteria
 - 59/59 tasks completed
