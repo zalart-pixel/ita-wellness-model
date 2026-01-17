@@ -99,28 +99,37 @@ AZ receives 2% of the Founder Pool upon satisfaction of ALL the following:
 ### 3.3 Arturs Zalitis (AZ) - Conditional: +18% of Founder Pool (Total: 20%)
 
 **Conditions for Additional 18% of Founder Pool:**
-AZ receives an additional 18% of Founder Pool (total 20%) upon:
+AZ's share increases from 2% toward 20% **only after completing 1 year of operations with good results**.
 
-1. **Operational Involvement Post-Launch**
-   - Minimum 2 years active involvement after soft launch
-   - Full-time or equivalent commitment
-   - Role: COO, General Manager, or equivalent
+1. **Year 1 Performance Gate (Required to Unlock Additional Equity)**
+   - AZ must complete 1 full year of active operational involvement
+   - Full-time or equivalent commitment as COO/General Manager
+   - Performance threshold: Minimum 30% occupancy achieved
+   - **If Year 1 targets NOT met:** AZ remains at 2%, no additional vesting
 
-2. **Performance Milestones**
-   - Year 1: Soft launch with minimum 30% occupancy
-   - Year 2: 50%+ occupancy and positive operating cash flow
+2. **Vesting Schedule (Starts AFTER Year 1 Success)**
+   - **Year 0-1:** AZ holds 2% base only (no vesting during first year)
+   - **After Year 1 success:** Additional 18% begins vesting over 3 years
+   - **Vesting rate:** 6% per year for Years 2, 3, and 4
+   - Total timeline: 4 years to reach full 20%
 
-3. **Vesting Schedule**
-   - Additional 18% vests over 4 years: 4.5% per year
-   - 1-year cliff: First 4.5% vests after 12 months post-launch
-   - Monthly vesting thereafter
+3. **Year-by-Year Breakdown**
+   | Year | Requirement | AZ % of Founder Pool |
+   |------|-------------|---------------------|
+   | 0 (pre-launch) | Docs + investors | 2% |
+   | 1 (operations) | 30% occupancy, full-time | 2% (no increase yet) |
+   | 2 | Continued ops, 40%+ occupancy | 8% (+6% vested) |
+   | 3 | Continued ops, 50%+ occupancy | 14% (+6% vested) |
+   | 4+ | Continued ops, profitable | 20% (+6% vested, fully vested) |
 
 4. **Trigger Events**
    | Scenario | AZ % of Founder Pool | JI % of Founder Pool |
    |----------|---------------------|---------------------|
    | AZ leaves before launch | 0% | 100% |
-   | AZ leaves after launch, before Year 1 | 2% | 98% |
-   | AZ leaves after Year 1 | 2% + vested portion | 98% - vested portion |
+   | AZ leaves during Year 1 | 2% | 98% |
+   | Year 1 targets NOT met | 2% (frozen) | 98% |
+   | AZ leaves after Year 2 | 2% + vested (8%) | 92% |
+   | AZ leaves after Year 3 | 2% + vested (14%) | 86% |
    | AZ remains through Year 4+ | 20% | 80% |
 
 ### 3.4 Medical Director (JI) - Remainder of Founder Pool
@@ -259,32 +268,36 @@ See database: 59 tasks across 8 domains
 
 ### Appendix B: Vesting Schedule Calculator
 
+**Key Rule:** AZ share only increases AFTER Year 1 with good results (30%+ occupancy)
+
 **AZ % of Founder Pool over time:**
 ```
-Year 0 (pre-launch): 0%
-Year 1 (post-launch): 2% base + 4.5% = 6.5% of Founder Pool
-Year 2: 6.5% + 4.5% = 11% of Founder Pool
-Year 3: 11% + 4.5% = 15.5% of Founder Pool
-Year 4+: 15.5% + 4.5% = 20% of Founder Pool (fully vested)
+Year 0 (pre-launch): 2% (upon docs + investor completion)
+Year 1 (operations): 2% (NO increase - must prove performance first)
+Year 2 (if Year 1 success): 8% (+6% vested)
+Year 3: 14% (+6% vested)
+Year 4+: 20% (+6% vested, fully vested)
 ```
 
 **JI % of Founder Pool (inverse):**
 ```
-Year 0: 100% (AZ not yet qualified)
-Year 1: 93.5%
-Year 2: 89%
-Year 3: 84.5%
+Year 0: 98%
+Year 1: 98% (no change until AZ proves performance)
+Year 2: 92%
+Year 3: 86%
 Year 4+: 80%
 ```
 
 **Example: If Investor = 70% (Founder Pool = 30%)**
 | Year | AZ % Founder | AZ % Company | JI % Founder | JI % Company |
 |------|-------------|--------------|--------------|--------------|
-| 0 | 0% | 0% | 100% | 30% |
-| 1 | 6.5% | 1.95% | 93.5% | 28.05% |
-| 2 | 11% | 3.3% | 89% | 26.7% |
-| 3 | 15.5% | 4.65% | 84.5% | 25.35% |
-| 4+ | 20% | 6% | 80% | 24% |
+| 0 | 2% | 0.6% | 98% | 29.4% |
+| 1 | 2% | 0.6% | 98% | 29.4% |
+| 2 | 8% | 2.4% | 92% | 27.6% |
+| 3 | 14% | 4.2% | 86% | 25.8% |
+| 4+ | 20% | 6.0% | 80% | 24.0% |
+
+**If Year 1 targets NOT met:** AZ stays at 2% permanently (or until renegotiated)
 
 ### Appendix C: Investment Readiness Criteria
 - 59/59 tasks completed
