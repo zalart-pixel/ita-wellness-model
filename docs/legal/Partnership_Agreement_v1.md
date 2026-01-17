@@ -87,65 +87,75 @@ AZ receives 2% of the Founder Pool when:
   - Investor sourcing and negotiations
 
 **STEP 2: 20% of Founder Pool**
-*Trigger: 12 months after launch with good performance across all three domains*
+*Trigger: 12 months after launch with good performance in AZ's scope of responsibility*
 
-AZ increases from 2% to 20% of Founder Pool when ALL of the following are satisfied:
-
----
-
-#### A. LEGAL & COMPLIANCE DELIVERABLES (Must achieve ALL 5)
-
-| # | Deliverable | Target | Verification |
-|---|-------------|--------|--------------|
-| L1 | Operating Licenses | All wellness, hospitality, and health permits valid and current | Legal counsel |
-| L2 | Regulatory Compliance | Zero material violations with ASL or Italian authorities | Legal counsel |
-| L3 | Employment Law | Full compliance with Italian labor law (contracts, hours, benefits) | HR audit |
-| L4 | Insurance Coverage | All policies current: liability, property, professional indemnity | Insurance certificates |
-| L5 | Contract Management | All vendor/supplier/partner contracts properly executed and filed | Legal counsel |
-
-**Requirement: 5 of 5 (100%)** - Compliance is non-negotiable
+**Key Principle:** AZ is evaluated ONLY on items within AZ's direct control. Medical/clinical items are JI's responsibility.
 
 ---
 
-#### B. FINANCIAL DELIVERABLES (Must achieve 4 of 5)
+#### AZ Responsibility Areas (5 Domains)
 
-| # | Deliverable | Target | Verification |
-|---|-------------|--------|--------------|
-| F1 | Revenue Achievement | ≥70% of approved Year 1 budget | Audited financials |
-| F2 | Operating Expense Control | OpEx within 115% of approved budget | Audited financials |
-| F3 | Cash Management | No unauthorized draws; monthly reports submitted on time | Board records |
-| F4 | Receivables Management | <10% of receivables over 60 days past due | Aging report |
-| F5 | Financial Review | Clean or unqualified review from external accountant at Month 12 | Accountant letter |
-
-**Requirement: 4 of 5 (80%)** - Some flexibility for market conditions
+| Domain | Weight | Required |
+|--------|--------|----------|
+| A: Commercial & Revenue | 25% | ≥70% of deliverables |
+| B: Operations & Service | 25% | ≥75% of deliverables |
+| C: People & Organization | 15% | ≥75% of deliverables |
+| D: Financial & Administrative | 25% | ≥80% of deliverables |
+| E: Occupancy & Capacity | 10% | ≥70% of deliverables |
 
 ---
 
-#### C. OPERATIONAL DELIVERABLES (Must achieve 4 of 5)
+#### Critical Deliverables (Must Pass ALL - Non-Negotiable)
 
-| # | Deliverable | Target | Verification |
-|---|-------------|--------|--------------|
-| O1 | Occupancy Rate | ≥30% average occupancy for Months 7-12 | PMS reports |
-| O2 | Guest Satisfaction | ≥4.2/5.0 average rating OR NPS ≥40 | Review platforms + surveys |
-| O3 | Staff Retention | Core team (min 10 FTEs) in place; <20% turnover | HR records |
-| O4 | Systems Operational | Booking, PMS, CRM running with <5% critical errors | IT audit |
-| O5 | Service Delivery | All core programs (detox, spa, wellness) fully operational | JI sign-off |
+| # | Critical Deliverable | Target |
+|---|---------------------|--------|
+| CRIT-1 | Zero serious safety incidents (non-medical) | 0 |
+| CRIT-2 | No fraud or misappropriation | 0 |
+| CRIT-3 | Employment law compliance | Zero violations |
+| CRIT-4 | Business licenses valid (hospitality/tourism) | 100% current |
+| CRIT-5 | Financial reporting submitted | 100% on time |
 
-**Requirement: 4 of 5 (80%)** - Some flexibility for ramp-up period
+**If ANY critical deliverable fails → AZ does not earn 20%**
 
 ---
 
-#### D. EVALUATION PROCESS
+#### Key Performance Deliverables (Summary)
+
+| Area | Deliverable | Target |
+|------|-------------|--------|
+| Revenue | Year 1 achievement | ≥70% of budget |
+| Expenses | Operating cost control | Within 115% of budget |
+| Occupancy | Months 7-12 average | ≥30% |
+| Guest Satisfaction | Service rating | ≥4.2/5.0 |
+| Staff | Non-clinical team retention | <25% turnover |
+| Systems | PMS/Booking uptime | ≥99% |
+| Compliance | Business licenses & insurance | 100% current |
+
+**Full details: See Appendix D - AZ Deliverables Detail Document**
+
+---
+
+#### Items EXCLUDED from AZ Evaluation (JI's Responsibility)
+
+| Item | Reason |
+|------|--------|
+| Medical/clinical licenses (ASL) | JI's domain |
+| Clinical staff credentials | JI manages |
+| Treatment protocols | JI's clinical expertise |
+| Medical equipment | JI's responsibility |
+| Pharmaceutical compliance | JI's medical-legal domain |
+| Patient clinical outcomes | JI's clinical responsibility |
+
+---
+
+#### Evaluation Process
 
 | Step | Timing | Action |
 |------|--------|--------|
-| 1 | Month 11 | AZ submits self-assessment with supporting documentation |
-| 2 | Month 11-12 | JI reviews operational and clinical metrics |
-| 3 | Month 12 | External accountant verifies financial metrics |
-| 4 | Month 12 | Legal counsel confirms compliance status |
-| 5 | Month 12 | Board (JI + Investor) makes final determination |
-
-**Appeal Mechanism:** If AZ disputes the evaluation, 30-day cure period granted for any remediable deficiencies. Final board decision is binding.
+| 1 | Month 10 | Preliminary assessment; AZ notified of deficiencies |
+| 2 | Month 11 | AZ submits self-assessment with evidence |
+| 3 | Month 12 | Board (JI + Investor + Accountant) final evaluation |
+| 4 | If disputed | 30-day cure period for remediable items |
 
 ---
 
@@ -325,6 +335,17 @@ INVESTMENT APPROVED          LAUNCH              12 MONTHS POST-LAUNCH
 | After 12 months (good) | **20%** | **6.0%** | **80%** | **24.0%** |
 
 **If Year 1 performance NOT satisfactory:** AZ stays at 2%
+
+### Appendix D: AZ Deliverables Detail Document
+
+**See separate document:** `AZ_Deliverables_Detail.md`
+
+Contains:
+- Full role definition and scope boundary (AZ vs JI)
+- Detailed deliverables by responsibility area
+- Specific targets and measurement methods
+- Evidence requirements
+- Evaluation scoring methodology
 
 ### Appendix C: Investment Readiness Criteria
 - 59/59 tasks completed
