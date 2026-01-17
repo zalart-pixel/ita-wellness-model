@@ -182,7 +182,65 @@ AZ receives 2% of the Founder Pool when:
 - If AZ earns 2%: JI gets **98%** of Founder Pool
 - If AZ earns 20%: JI gets **80%** of Founder Pool
 
-### 3.5 Investor Equity
+---
+
+#### JI Responsibility Areas (6 Domains)
+
+| Domain | Weight | Description |
+|--------|--------|-------------|
+| A: Medical Licensing & Regulatory | 25% | ASL authorization, health licenses, facility compliance |
+| B: Clinical Program Design | 25% | Treatment protocols, peptide compliance, program quality |
+| C: Clinical Staff Management | 15% | Recruitment, credentials, training |
+| D: Patient Safety & Outcomes | 20% | Safety program, outcomes tracking, adverse events |
+| E: Equipment & Supplies | 10% | Medical equipment, pharmaceuticals |
+| F: Clinical Governance | 5% | Quality systems, documentation, records |
+
+---
+
+#### JI Critical Deliverables (Non-Negotiable)
+
+| # | Critical Deliverable | Target |
+|---|---------------------|--------|
+| CRIT-1 | ASL/Health authorization | Valid license before launch |
+| CRIT-2 | Zero preventable serious adverse events | 0 SAEs |
+| CRIT-3 | Clinical staff credentials | 100% verified and current |
+| CRIT-4 | Pharmaceutical/peptide compliance | Legal opinion + compliance |
+| CRIT-5 | Patient consent | 100% documented |
+| CRIT-6 | Medical record integrity | GDPR compliant, no breaches |
+
+---
+
+#### JI Key Performance Areas
+
+| Area | Deliverable | Target |
+|------|-------------|--------|
+| Licensing | ASL authorization | Valid before launch |
+| Protocols | Core treatment library | Minimum 10 protocols |
+| Safety | Adverse events | Zero preventable SAEs |
+| Outcomes | Guest health improvement | ≥80% report improvement |
+| Staff | Clinical team | Min 4 FTEs, credentials verified |
+| Equipment | Medical equipment | 100% operational, maintained |
+| Compliance | Pharmaceutical sourcing | 100% legally compliant |
+
+**Full details: See Appendix E - JI Deliverables Detail Document**
+
+---
+
+#### JI Pre-Launch Critical Path
+
+| Milestone | Target Timing |
+|-----------|---------------|
+| ASL application submitted | Month -6 (before launch) |
+| Clinical protocols documented | Month -4 |
+| Medical equipment ordered | Month -4 |
+| Clinical staff hired | Month -3 |
+| Staff training completed | Month -1 |
+| ASL inspection passed | Month -1 |
+| License received | Launch day |
+
+---
+
+### 3.6 Investor Equity
 
 **Expected Investor Terms:**
 - **Equity Range:** 60-80% of total company
@@ -342,10 +400,22 @@ INVESTMENT APPROVED          LAUNCH              12 MONTHS POST-LAUNCH
 
 Contains:
 - Full role definition and scope boundary (AZ vs JI)
-- Detailed deliverables by responsibility area
+- Detailed deliverables by responsibility area (5 domains)
 - Specific targets and measurement methods
 - Evidence requirements
 - Evaluation scoring methodology
+
+### Appendix E: JI Deliverables Detail Document
+
+**See separate document:** `JI_Deliverables_Detail.md`
+
+Contains:
+- Full role definition and clinical scope
+- Detailed deliverables by responsibility area (6 domains)
+- Pre-launch critical path and milestones
+- Licensing and regulatory requirements
+- Patient safety and outcomes tracking
+- Collaboration requirements with AZ
 
 ### Appendix C: Investment Readiness Criteria
 - 59/59 tasks completed
