@@ -87,12 +87,67 @@ AZ receives 2% of the Founder Pool when:
   - Investor sourcing and negotiations
 
 **STEP 2: 20% of Founder Pool**
-*Trigger: 12 months after launch with good performance*
+*Trigger: 12 months after launch with good performance across all three domains*
 
-AZ increases from 2% to 20% of Founder Pool when:
-- 12 months have passed since project launch
-- AZ has been actively managing the business (full-time equivalent)
-- Good performance achieved (metrics TBD, e.g., occupancy targets, revenue goals)
+AZ increases from 2% to 20% of Founder Pool when ALL of the following are satisfied:
+
+---
+
+#### A. LEGAL & COMPLIANCE DELIVERABLES (Must achieve ALL 5)
+
+| # | Deliverable | Target | Verification |
+|---|-------------|--------|--------------|
+| L1 | Operating Licenses | All wellness, hospitality, and health permits valid and current | Legal counsel |
+| L2 | Regulatory Compliance | Zero material violations with ASL or Italian authorities | Legal counsel |
+| L3 | Employment Law | Full compliance with Italian labor law (contracts, hours, benefits) | HR audit |
+| L4 | Insurance Coverage | All policies current: liability, property, professional indemnity | Insurance certificates |
+| L5 | Contract Management | All vendor/supplier/partner contracts properly executed and filed | Legal counsel |
+
+**Requirement: 5 of 5 (100%)** - Compliance is non-negotiable
+
+---
+
+#### B. FINANCIAL DELIVERABLES (Must achieve 4 of 5)
+
+| # | Deliverable | Target | Verification |
+|---|-------------|--------|--------------|
+| F1 | Revenue Achievement | ≥70% of approved Year 1 budget | Audited financials |
+| F2 | Operating Expense Control | OpEx within 115% of approved budget | Audited financials |
+| F3 | Cash Management | No unauthorized draws; monthly reports submitted on time | Board records |
+| F4 | Receivables Management | <10% of receivables over 60 days past due | Aging report |
+| F5 | Financial Review | Clean or unqualified review from external accountant at Month 12 | Accountant letter |
+
+**Requirement: 4 of 5 (80%)** - Some flexibility for market conditions
+
+---
+
+#### C. OPERATIONAL DELIVERABLES (Must achieve 4 of 5)
+
+| # | Deliverable | Target | Verification |
+|---|-------------|--------|--------------|
+| O1 | Occupancy Rate | ≥30% average occupancy for Months 7-12 | PMS reports |
+| O2 | Guest Satisfaction | ≥4.2/5.0 average rating OR NPS ≥40 | Review platforms + surveys |
+| O3 | Staff Retention | Core team (min 10 FTEs) in place; <20% turnover | HR records |
+| O4 | Systems Operational | Booking, PMS, CRM running with <5% critical errors | IT audit |
+| O5 | Service Delivery | All core programs (detox, spa, wellness) fully operational | JI sign-off |
+
+**Requirement: 4 of 5 (80%)** - Some flexibility for ramp-up period
+
+---
+
+#### D. EVALUATION PROCESS
+
+| Step | Timing | Action |
+|------|--------|--------|
+| 1 | Month 11 | AZ submits self-assessment with supporting documentation |
+| 2 | Month 11-12 | JI reviews operational and clinical metrics |
+| 3 | Month 12 | External accountant verifies financial metrics |
+| 4 | Month 12 | Legal counsel confirms compliance status |
+| 5 | Month 12 | Board (JI + Investor) makes final determination |
+
+**Appeal Mechanism:** If AZ disputes the evaluation, 30-day cure period granted for any remediable deficiencies. Final board decision is binding.
+
+---
 
 ### 3.3 Summary Table
 
